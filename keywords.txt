@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Keyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PIEled	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setState	KEYWORD2
+setPin		KEYWORD2
+setSpeed1	KEYWORD2
+setSpeed2	KEYWORD2
+setSpeed3	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
